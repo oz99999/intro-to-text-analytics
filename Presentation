@@ -1,0 +1,31 @@
+Exploratory Data Analysis:
+
+Input:
+-A corpus and a document -term matrix
+
+What aare some of the common explorations?
+- Top Words 
+- Vocabulary
+- Popularity
+
+
+Top Words 
+1. Data - Which format do you think is better? Corupus or dument-term matrix?
+      -A: Document-term matrix
+2. How can we aggregate data to fimnd the top words?
+			-A: For every row of data, sort it 
+			
+			
+3. Visualize -
+			-A: 
+			
+4. Insights - 
+			A: Does it make sense? 
+			A: Can we clean the data further?
+			A: What are some top level insights?
+			
+			
+
+Output: Figure out main trends
+
+			
